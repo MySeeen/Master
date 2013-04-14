@@ -4,3 +4,6 @@
 [submodule "iOS"]
 	path = iOS
 	url = git@github.com:Dimillian/MySeeen.git
+[submodule "Win8"]
+	path = Win8
+	url = https://github.com/Virtual-Info/MySeeen-Win8
