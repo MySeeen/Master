@@ -7,3 +7,9 @@
 [submodule "Win8"]
 	path = Win8
 	url = https://github.com/Virtual-Info/MySeeen-Win8
+[submodule "iOS-V2"]
+	path = iOS-V2
+	url = https://github.com/Dimillian/MySeeen-V2.git
+[submodule "Web"]
+	path = Web
+	url = https://github.com/Dimillian/MySeeen-Web
